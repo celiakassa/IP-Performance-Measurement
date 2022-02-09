@@ -4,3 +4,7 @@ To test it you must have go on your system
 apt-get install golang-go
 
 to run the client 
+```bash
+apt-get install golang-go
+
+```
